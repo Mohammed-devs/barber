@@ -1,0 +1,5 @@
+{
+  "name": "Barber AI Style Transfer",
+  "description": "An application for barbers to apply hairstyles from a reference image to a customer's photo and customize the hair color using AI.",
+  "requestFramePermissions": []
+}
